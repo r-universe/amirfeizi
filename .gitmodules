@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "otargen"]
+	path = otargen
+	url = https://github.com/amirfeizi/otargen
+	shallow = true
+	registered = true
